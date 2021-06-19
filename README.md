@@ -5,4 +5,5 @@
 
 - 🔭 I’m currently working on ProjectIV
 - 🌱 I’m currently learning Web Development
-- ⚡ Fun fact: Don't use Google, Facebook, Instagram
+- ⚡ Fun fact      :    Don't use Google, Facebook, Instagram
+- Ⓜ️ Hit me up   :     https://matrix.to/#/@alxigeek:matrix.org
