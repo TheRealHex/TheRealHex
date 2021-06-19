@@ -1,5 +1,5 @@
 ### Portfolio
-<hr>
+
 - 🔭 I’m currently working on <b>Nepal-Dainik</b>
 - 🌱 I’m currently learning <b>Web Development</b>
 - ⚡ Fun fact      :    Say <b>no</b> to <b>Google, FB, IG</b>
