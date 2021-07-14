@@ -3,7 +3,7 @@
 - 🔭 Working on <b>Nepal-Dainik</b>
 - 🌱 Learning <b>Web Development</b>
 - ⚡ Fun fact      :    Say <b>no</b> to <b>Google, FB, IG</b>
-- Ⓜ️ Hit me up   :    <b> https://matrix.to/#/@alxigeek:matrix.org </b>
-
 <hr>
-<img src="https://media.tenor.com/images/6b5ca1da98c3a9d8c9a35ac780dd412b/tenor.gif" align="middle">
+<b>Contact Me</b>
+<br>
+<a href="https://matrix.to/#/@alxigeek:matrix.org"><img src="https://i.postimg.cc/595wLgGh/bitmap.png" height="28px"></a>
