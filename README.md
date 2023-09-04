@@ -1,7 +1,7 @@
 ### About Me
 
-- 🔭 Working on :  <b>Nepal-Dainik</b>
-- 🌱 Learning : <b>Web Development</b>
+- 🔭 Working on :  <b>College Forums</b>
+- 🌱 Learning : <b>React | Laravel | Cybersecurity | Android</b>
 - ⚡ Fun fact      :    Say <b>no</b> to <b>Google, FB, IG</b>
 <hr>
 &emsp;<b>Contact</b>
