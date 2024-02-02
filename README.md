@@ -1,15 +1,16 @@
-<h1 align="center">Yo 🤜</h1>
+<h1 align="center">Hey, I'm Nischal!</h1>
 
 ###
 
 <div align="center">
   <a href="https://linkedin.com/in/therealhex/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  </a><br><br>
+  <p> Currently learning <b>Flutter</b> & working on <b>Wut Todo?</b>.</p>
 </div>
 
 ###
-Currently learning <b>Flutter</b> & working on <b>Wut Todo?</b>.
+
 
 ###
 
@@ -41,8 +42,6 @@ Currently learning <b>Flutter</b> & working on <b>Wut Todo?</b>.
 
 ###
 
-### Stats
-
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=therealhex&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=550&stroke=979797AE&dates=FFFFFF&ring=EBEBEB&background=0D1117&sideLabels=D9D9D9&fire=EB9A07&sideNums=8AB6EB&currStreakLabel=EBEBEB&currStreakNum=EBEBEB&excludeDaysLabel=FFFFFF&border=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=therealhex&&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=550&stroke=979797AE&dates=FFFFFF&ring=EBEBEB&background=0D1117&sideLabels=D9D9D9&fire=EB9A07&sideNums=8AB6EB&currStreakLabel=EBEBEB&currStreakNum=EBEBEB&excludeDaysLabel=FFFFFF&border=0D1117" alt="GitHub Streak" />
 </div>
