@@ -13,7 +13,7 @@
 <p align="left">I'm <b>Nischal</b> from 🇳🇵<br><br>
   - 🔭 I’m working on <b>Wut Todo?</b><br>
   - 📚 I'm currently learning <b>Flutter</b><br>
-  - ⚡ In my free time I travel.
+  - ⚡ In my free time I <b>travel</b>.
 </p>
 
 ###
