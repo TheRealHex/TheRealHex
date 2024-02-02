@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Nischal!</h1>
 
-###
-
 <div align="center">
   <a href="https://linkedin.com/in/therealhex/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -9,13 +7,12 @@
   <p> Currently learning <b>Flutter</b> & working on <b>Wut Todo?</b>.</p>
 </div>
 
+<hr>
+
 ###
 
-
-###
-
-#### Learnings & Tools
 <div align="center">
+<p><b>Learnings & Tools</b></p> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="32" alt="dart logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="32" alt="flutter logo"  />
