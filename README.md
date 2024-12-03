@@ -13,9 +13,9 @@
 
 <div align="center">
 <p><b>Learnings & Tools</b></p> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="32" alt="dart logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="32" alt="flutter logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" height="32" alt="fastapi logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="32" width="100" alt="mysql logo"  />
   <img width="10" />
